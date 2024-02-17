@@ -1,0 +1,114 @@
+*{
+    margin-top: 0px;
+}
+#main{
+    height: 65vh;
+    width: 100%;
+    background-color: #003B95 !important;
+}
+#usa{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+}
+#next{
+    font-size: 44pt !important;
+    font-weight: 600;
+}
+#h5{
+    font-weight: 400;
+}
+#li1{
+    border: 1px solid rgba(255, 255, 255, 0.171);
+    border-radius: 999px;
+    background-color: rgba(255, 255, 255, 0.171);
+    /* width:30px; */
+}
+#list{
+    width: 80px;
+    border: none !important;
+    outline: none !important;
+    border-radius: 5px !important;
+}
+#list1{
+    width: 120px;
+    border: none !important;
+    outline: none !important;
+    border-radius: 5px !important;
+}
+i{
+    padding-left: 5px;
+}
+#input1{
+    background-color: #FFBB0F;
+    height: 10vh;
+    width: 75vw;
+    border-radius: 10px;
+}
+::placeholder{
+    padding-left: 5px;
+}
+#Search{
+    background-color: #006CE4;
+    height: 8vh;
+    border-radius: 5px;
+    width: 100px;
+    border: none;
+}
+input:focus{
+    border: none;
+    outline: none;
+}
+#input22{
+    width: 300px;
+    height: 8vh;
+    border-radius: 8px;
+    border: none;
+}
+#offer{
+    font-weight: 700;
+}
+#card1{
+    border: 1px solid black;
+    height: 25vh;
+    width: 45vw;
+    border-radius: 10px;
+}
+#card-h4{
+    font-weight: 700;
+}
+#xyz{
+    height: 30px;
+    width: 30px;
+}
+#card{
+    height: 35vh;
+    width: 90vw;
+    border: 1px solid black;
+    background-image: url(img/water.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#early{
+    background-color: #006CE4;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    color: white;
+    font-weight: 600;
+}
+#Quick{
+    font-weight: 700;
+}
+#qrt{
+    border: 1px solid red;
+    border-radius: 200px;
+}
